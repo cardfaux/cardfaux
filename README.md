@@ -23,8 +23,17 @@
 
  #### I am on team ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 
- ### <div align="center">My Varying Tech Stack:</div>
- #### <div align="center">[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</div>
+ ### <div align="center">My Varying FrontEnd Tools:</div>
+ #### <div align="center">[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,remix,tailwind,ts,vite,vscode,vue,threejs,pug,babel,alpinejs)](https://skillicons.dev)</div>
+
+ ### <div align="center">My Varying BackEnd Tools:</div>
+ #### <div align="center">[![My Skills](https://skillicons.dev/icons?i=express,laravel,mysql,nodejs,php,py,apollo)](https://skillicons.dev)</div>
+
+ ### <div align="center">My Varying Database Tools:</div>
+ #### <div align="center">[![My Skills](https://skillicons.dev/icons?i=mysql,prisma,sqlite,sequelize,redis,postgres,mongodb,firebase)](https://skillicons.dev)</div>
+
+ ### <div align="center">My Varying Design Tools:</div>
+ #### <div align="center">[![My Skills](https://skillicons.dev/icons?i=figma,svg,xd)](https://skillicons.dev)</div>
 
  📫 How to reach me: jameshagooddev@gmail.com
 
