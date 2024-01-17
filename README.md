@@ -23,8 +23,10 @@
 
  #### I am on team ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 
- ### <div align="center">My Varying Tech Stack:</div>
+ <div align="center">
+ ### My Varying Tech Stack:
  #### [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ </div>
 
  📫 How to reach me: jameshagooddev@gmail.com
 
