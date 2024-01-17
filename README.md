@@ -1,5 +1,5 @@
 ### Hi there, I am working on making this better 👋
-
+<!--
 #### I usually use
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -36,7 +36,7 @@
  #### <div align="center">[![My Skills](https://skillicons.dev/icons?i=figma,svg,xd)](https://skillicons.dev)</div>
 
  📫 How to reach me: jameshagooddev@gmail.com
-
+-->
 <!--
 **cardfaux/cardfaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
